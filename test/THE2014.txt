@@ -1,0 +1,52 @@
+2 2
+[Rank] [University]
+1	California Institute of Technology	|
+2	Harvard University	|
+2	University of Oxford	|
+4	Stanford University	|
+5	Massachusetts Institute of Technology	|
+6	Princeton University	|
+7	University of Cambridge	|
+8	University of California, Berkeley	|
+9	University of Chicago	|
+10	Imperial College London	|
+11	Yale University	|
+12	University of California, Los Angeles	|
+13	Columbia University	|
+14	ETH Zurich – Swiss Federal Institute of Technology Zurich	|
+15	Johns Hopkins University	|
+16	University of Pennsylvania	|
+17	Duke University	|
+18	University of Michigan	|
+19	Cornell University	|
+20	University of Toronto	|
+21	University College London	|
+22	Northwestern University	|
+23	University of Tokyo	|
+24	Carnegie Mellon University	|
+25	University of Washington	|
+26	National University of Singapore	|
+27	University of Texas at Austin	|
+28	Georgia Institute of Technology	|
+29	University of Illinois at Urbana-Champaign	|
+30	University of Wisconsin-Madison	|
+31	University of British Columbia	|
+32	London School of Economics and Political Science	|
+33	University of California, Santa Barbara	|
+34	University of Melbourne	|
+35	McGill University	|
+36	Karolinska Institute	|
+37	Ecole Polytechnique Federale de Lausanne	|
+38	King’s College London	|
+39	University of Edinburgh	|
+40	New York University	|
+40	University of California, San Diego	|
+42	Washington University in St Louis	|
+43	University of Hong Kong	|
+44	Seoul National University	|
+45	Peking University	|
+46	University of Minnesota	|
+47	University of North Carolina at Chapel Hill	|
+48	Australian National University	|
+49	Pennsylvania State University	|
+50	Boston University	|

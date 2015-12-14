@@ -1,0 +1,52 @@
+5 2
+[World Rank] [Institution] [National Rank] [Total Score] [Score on Alumni]
+1	Harvard University	|		1	100	100
+2	Stanford University	|		2	72.6	40
+3	University of California, Berkeley	|		3	71.3	67.8
+4	Massachusetts Institute of Technology (MIT)	|		4	71.1	68
+5	University of Cambridge	|		1	69.6	79.1
+6	California Institute of Technology	|		5	62.9	47.8
+7	Princeton University	|		6	61.9	52.9
+8	Columbia University	|		7	59.8	66.1
+9	University of Chicago	|		8	57.1	60.9
+10	University of Oxford	|		2	55.9	51.8
+11	Yale University	|		9	55.4	47.5
+12	University of California, Los Angeles	|		10	52.9	27.3
+13	Cornell University	|		11	50	38.2
+14	University of California, San Diego	|		12	49.9	20
+15	University of Pennsylvania	|		13	49.6	33
+16	University of Washington	|		14	48.3	22
+17	The Johns Hopkins University	|		15	46.9	39.3
+18	University of California, San Francisco	|		16	46.2	0
+19	University of Wisconsin - Madison	|		17	44.9	32.1
+20	Swiss Federal Institute of Technology Zurich	|		1	43.5	30.7
+21	The University of Tokyo	|		1	43	32.1
+21	University College London	|		3	43	29.3
+23	University of Michigan - Ann Arbor	|		18	42.6	33.4
+24	The Imperial College of Science, Technology and Medicine	|		4	41.6	15.1
+25	University of Illinois at Urbana-Champaign	|		19	41.1	31.2
+26	Kyoto University	|		2	40.8	30.7
+27	New York University	|		20	40.5	29.3
+28	University of Toronto	|		1	40.3	20.7
+29	University of Minnesota, Twin Cities	|		21	39.7	27.3
+30	Northwestern University	|		22	38.9	16
+31	Duke University	|		23	38.1	16
+32	Washington University in St. Louis	|		24	37.5	19.3
+33	University of Colorado at Boulder	|		25	37.3	13.1
+34	Rockefeller University	|		26	37.1	17.7
+35	University of California, Santa Barbara	|		27	35.9	15.1
+36	The University of Texas at Austin	|		28	35.4	16.9
+37	Pierre and Marie Curie University - Paris 6	|		1	35.3	35.1
+38	University of Maryland, College Park	|		29	34.7	20
+39	University of Paris Sud (Paris 11)	|		2	34.5	31.6
+40	University of British Columbia	|		2	34.2	16
+41	The University of Manchester	|		5	34	19.3
+42	University of Copenhagen	|		1	33.8	22.7
+43	University of North Carolina at Chapel Hill	|		30	33.7	9.3
+44	Karolinska Institute	|		1	32.7	23.3
+45	University of California, Irvine	|		31	32.4	0
+46	The University of Texas Southwestern Medical Center at Dallas	|		32	31.4	19.3
+47	University of California, Davis	|		33	31.3	0
+47	University of Southern California	|		33	31.3	0
+49	Vanderbilt University	|		35	31	16
+50	Technical University Munich	|		1	30.6	36.3

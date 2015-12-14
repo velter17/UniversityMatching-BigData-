@@ -1,0 +1,47 @@
+﻿Build started 10.12.2015 15:10:57.
+     1>Project "D:\Dmitriy\ACM\test\test\test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programs\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\dmitriy\acm\test\test\source.cpp(109): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(116): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(140): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(154): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(165): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(194): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(199): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(205): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\source.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\dmitriy\acm\test\test\htmlcolumn.h(39): warning C4661: 'void HtmlColumnType<std::string>::saveToFile(std::ofstream &,int)' : no suitable definition provided for explicit template instantiation request
+                 d:\dmitriy\acm\test\test\htmlcolumn.h(31) : see declaration of 'HtmlColumnType<std::string>::saveToFile'
+     1>d:\dmitriy\acm\test\test\htmlcolumn.h(39): warning C4661: 'int HtmlColumnType<std::string>::getRowsNum(void)' : no suitable definition provided for explicit template instantiation request
+                 d:\dmitriy\acm\test\test\htmlcolumn.h(32) : see declaration of 'HtmlColumnType<std::string>::getRowsNum'
+     1>d:\dmitriy\acm\test\test\htmlcolumn.h(39): warning C4661: 'void HtmlColumnType<std::string>::addData(T)' : no suitable definition provided for explicit template instantiation request
+                 with
+                 [
+                     T=std::string
+                 ]
+                 d:\dmitriy\acm\test\test\htmlcolumn.h(34) : see declaration of 'HtmlColumnType<std::string>::addData'
+     1>d:\dmitriy\acm\test\test\htmlcolumn.h(40): warning C4661: 'void HtmlColumnType<double>::saveToFile(std::ofstream &,int)' : no suitable definition provided for explicit template instantiation request
+                 d:\dmitriy\acm\test\test\htmlcolumn.h(31) : see declaration of 'HtmlColumnType<double>::saveToFile'
+     1>d:\dmitriy\acm\test\test\htmlcolumn.h(40): warning C4661: 'int HtmlColumnType<double>::getRowsNum(void)' : no suitable definition provided for explicit template instantiation request
+                 d:\dmitriy\acm\test\test\htmlcolumn.h(32) : see declaration of 'HtmlColumnType<double>::getRowsNum'
+     1>d:\dmitriy\acm\test\test\htmlcolumn.h(40): warning C4661: 'void HtmlColumnType<double>::addData(T)' : no suitable definition provided for explicit template instantiation request
+                 with
+                 [
+                     T=double
+                 ]
+                 d:\dmitriy\acm\test\test\htmlcolumn.h(34) : see declaration of 'HtmlColumnType<double>::addData'
+       Link:
+         D:\Programs\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dmitriy\ACM\test\Debug\test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Dmitriy\ACM\test\Debug\test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dmitriy\ACM\test\Debug\test.lib" /MACHINE:X86 Debug\HtmlColumn.obj
+         Debug\HtmlTableWriter.obj
+         Debug\Source.obj
+         test.vcxproj -> D:\Dmitriy\ACM\test\Debug\test.exe
+     1>Done Building Project "D:\Dmitriy\ACM\test\test\test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.30

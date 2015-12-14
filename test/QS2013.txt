@@ -1,0 +1,52 @@
+3 3
+[Rank] [Overall] [University]
+1	100.0	Massachusetts Institute of Technology (MIT)			|
+2	99.2	Harvard University			|
+3	99.0	University of Cambridge			|
+4	98.9	UCL (University College London)			|
+5	98.8	Imperial College London			|
+6	98.7	University of Oxford			|
+7	96.8	Stanford University			|
+8	96.5	Yale University			|
+9	96.2	University of Chicago			|
+10	96.1	California Institute of Technology (Caltech)			|
+10	96.1	Princeton University			|
+12	94.3	ETH Zurich - Swiss Federal Institute of Technology			|
+13	93.8	University of Pennsylvania			|
+14	93.6	Columbia University			|
+15	92.5	Cornell University			|
+16	92.1	Johns Hopkins University			|
+17	91.3	The University of Edinburgh			|
+17	91.3	University of Toronto			|
+19	90.9	EPFL (Ecole Polytechnique Federale de Lausanne)			|
+19	90.9	Kings College London			|
+21	90.6	McGill University			|
+22	90.5	University of Michigan			|
+23	90.1	Duke University			|
+24	89.4	National University of Singapore (NUS)			|
+25	89.0	University of California, Berkeley (UCB)			|
+26	88.6	The University of Hong Kong			|
+27	88.5	The Australian National University			|
+28	87.8	Ecole normale superieure, Paris			|
+29	87.3	Northwestern University			|
+30	86.6	University of Bristol			|
+31	86.0	The University of Melbourne			|
+32	85.7	The University of Tokyo			|
+33	85.2	The University of Manchester			|
+34	84.4	The Hong Kong University of Science and Technology			|
+35	84.1	Kyoto University			|
+35	84.1	Seoul National University			|
+37	83.0	University of Wisconsin-Madison			|
+38	82.9	The University of Sydney			|
+39	82.3	The Chinese University of Hong Kong			|
+40	81.9	University of California, Los Angeles (UCLA)			|
+41	81.1	Ecole Polytechnique			|
+41	81.1	Nanyang Technological University, Singapore (NTU)			|
+43	80.9	The University of Queensland			|
+44	80.8	New York University (NYU)			|
+45	80.5	University of Copenhagen			|
+46	80.0	Peking University			|
+47	79.8	Brown University			|
+48	79.7	Tsinghua University			|
+49	79.4	University of British Columbia			|
+50	79.3	Ruprecht-Karls-Universitaet Heidelberg			|

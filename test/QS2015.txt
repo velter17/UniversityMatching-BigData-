@@ -1,0 +1,52 @@
+3 3
+[Rank] [Overall Score] [University]
+1	100.0	Massachusetts Institute of Technology (MIT)	|	
+2	98.7	Harvard University	|
+3	98.6	University of Cambridge	|
+3	98.6	Stanford University	|
+5	97.9	California Institute of Technology (Caltech)	|
+6	97.7	University of Oxford	|
+7	97.2	UCL (University College London)	|
+8	96.1	Imperial College London	|
+9	95.5	ETH Zurich - Swiss Federal Institute of Technology	|
+10	94.6	University of Chicago	|
+11	94.4	Princeton University	|
+12	94.2	National University of Singapore (NUS)	|
+13	93.9	Nanyang Technological University, Singapore (NTU)	|
+14	93.8	EPFL (Ecole Polytechnique Federale de Lausanne)	|
+15	92.2	Yale University	|
+16	91.9	Johns Hopkins University	|
+17	91.8	Cornell University	|
+18	91.5	University of Pennsylvania	|
+19	91.0	Kings College London	|
+19	91.0	The Australian National University	|
+21	90.8	The University of Edinburgh	|
+22	89.7	Columbia University	|
+23	89.2	Ecole normale superieure, Paris	|
+24	88.6	McGill University	|
+25	88.5	Tsinghua University	
+26	88.4	University of California, Berkeley (UCB)	|
+27	88.2	University of California, Los Angeles (UCLA)	|
+28	88.0	The Hong Kong University of Science and Technology	|
+29	87.9	Duke University	|
+30	87.8	The University of Hong Kong	|
+30	87.8	University of Michigan	|
+32	87.7	Northwestern University	|
+33	87.2	The University of Manchester	|
+34	87.1	University of Toronto	|
+35	86.2	London School of Economics and Political Science (LSE)	|
+36	85.3	Seoul National University	|
+37	85.0	University of Bristol	|
+38	84.9	Kyoto University	|
+39	84.8	The University of Tokyo	|
+40	83.8	Ecole Polytechnique	|
+41	83.7	Peking University	|
+42	83.1	The University of Melbourne	|
+43	82.6	KAIST - Korea Advanced Institute of Science & Technology	|
+44	82.5	University of California, San Diego (UCSD)	|
+45	81.9	The University of Sydney	|
+46	81.8	The University of New South Wales (UNSW Australia)	|
+46	81.8	The University of Queensland	|
+48	81.6	The University of Warwick	|
+49	81.5	Brown University	|
+50	81.2	University of British Columbia	|

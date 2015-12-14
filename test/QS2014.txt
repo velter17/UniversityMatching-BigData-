@@ -1,0 +1,52 @@
+3 3
+[Rank] [Overall Score] [University]
+1	100.0	Massachusetts Institute of Technology (MIT)	|	
+2	99.4	University of Cambridge	|	
+2	99.4	Imperial College London	|	
+4	99.3	Harvard University	|	
+5	99.2	University of Oxford	|	
+5	99.2	UCL (University College London)	|	
+7	98.3	Stanford University	|	
+8	97.1	California Institute of Technology (Caltech)	|	
+9	96.6	Princeton University	|	
+10	96.5	Yale University	|	
+11	95.5	University of Chicago	|	
+12	95.3	ETH Zurich - Swiss Federal Institute of Technology	|	
+13	94.5	University of Pennsylvania	|	
+14	94.1	Columbia University	|	
+14	94.1	Johns Hopkins University	|	
+16	92.9	Kings College London	|	
+17	92.8	The University of Edinburgh	|	
+17	92.8	EPFL (Ecole Polytechnique Federale de Lausanne)	|	
+19	92.6	Cornell University	|	
+20	92.4	University of Toronto	|	
+21	91.5	McGill University	|	
+22	91.1	National University of Singapore (NUS)	|	
+23	90.3	University of Michigan	|	
+24	90.2	Ecole normale superieure, Paris	|	
+25	89.7	The Australian National University	|	
+25	89.7	Duke University	|	
+27	89.5	University of California, Berkeley (UCB)	|	
+28	88.8	The University of Hong Kong	|	
+29	88.5	University of Bristol	|	
+30	86.9	The University of Manchester	|	
+31	86.7	The University of Tokyo	|	
+31	86.7	Seoul National University	|	
+33	86.5	The University of Melbourne	|	
+34	86.0	Northwestern University	|	
+35	85.0	Ecole Polytechnique	|	
+36	84.7	Kyoto University	|	
+37	84.3	University of California, Los Angeles (UCLA)	|	
+37	84.3	The University of Sydney	|	
+39	84.0	Nanyang Technological University, Singapore (NTU)	|	
+40	83.3	The Hong Kong University of Science and Technology	|	
+41	82.5	New York University (NYU)	|	
+41	82.5	University of Wisconsin-Madison	|	
+43	82.4	University of British Columbia	|	
+43	82.4	The University of Queensland	|	
+45	82.0	University of Copenhagen	|	
+46	81.9	The Chinese University of Hong Kong	|	
+47	81.3	Tsinghua University	|	
+48	81.2	The University of New South Wales (UNSW Australia)	|	
+49	81.1	Ruprecht-Karls-Universitaet Heidelberg	|	
+50	80.5	University of Amsterdam	|	
